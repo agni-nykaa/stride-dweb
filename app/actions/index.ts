@@ -1,0 +1,15 @@
+export const ACTION_ROUTES = {
+  reactConfig: '/sns-api/reactConfig',
+  wishlist: '/sns-api/wishlist',
+  addToCart: '/sns-api/addItemsToCart',
+  notifyMe: '/sns-api/notifyMe',
+  addressDetail: '/sns-api/addressDetails',
+  savedAddress: '/sns-api/savedAddresses',
+  recommendations: '/sns-api/recommendations',
+  reviewImages: '/sns-api/reviewImages',
+  autoAddress: '/sns-api/autoAddress',
+  productDetails: '/sns-api/productDetails',
+  productReviewImages: '/sns-api/reviewImages',
+  fetchWishlistIds: '/sns-api/fetchWishlistIds',
+  fetchReviewDetails: '/sns-api/reviewDetails',
+};
